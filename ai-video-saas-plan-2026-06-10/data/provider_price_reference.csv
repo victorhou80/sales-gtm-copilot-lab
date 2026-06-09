@@ -1,0 +1,16 @@
+provider,item,price_reference,usage,recommendation,source_url
+RunPod,WAN 2.6 I2V 720p,"$0.10/second","商品图转视频、B-roll","普通高级镜头主力","https://docs.runpod.io/public-endpoints/models/wan-2-6-i2v"
+RunPod,WAN 2.6 I2V 1080p,"$0.15/second","高质量商品镜头","按秒/点数扣费","https://docs.runpod.io/public-endpoints/models/wan-2-6-i2v"
+RunPod,WAN 2.6 T2V 720p,"$0.10/second","文生 B-roll","少量使用","https://docs.runpod.io/public-endpoints/models/wan-2-6-t2v"
+RunPod,WAN 2.6 T2V 1080p,"$0.15/second","高质量文生镜头","按秒/点数扣费","https://docs.runpod.io/public-endpoints/models/wan-2-6-t2v"
+RunPod,InfiniteTalk 480p,"$0.25/video","数字人口播测试","需要实测长音频稳定性","https://docs.runpod.io/public-endpoints/models/infinitetalk"
+RunPod,InfiniteTalk 720p,"$0.50/video","数字人口播测试","按分钟/切段限额","https://docs.runpod.io/public-endpoints/models/infinitetalk"
+fal.ai,Seedance 2.0 720p,"about $0.2419-$0.3034/second","高级视频镜头","高级加购，不做普通套餐主成本","https://fal.ai/models/bytedance/seedance-2.0/text-to-video"
+fal.ai,Seedance 2.0 1080p,"about $0.682/second","高质感 AI 镜头","只按高级点数使用","https://fal.ai/models/bytedance/seedance-2.0/text-to-video"
+RunPod,L4 24GB GPU,"about $0.39/hour","serverless/pod worker","早期可用，适合轻任务","https://www.runpod.io/pricing"
+RunPod,RTX 4090 24GB GPU,"about $0.69/hour","研发、批量任务","便宜但稳定性和供给要看平台","https://www.runpod.io/pricing"
+RunPod,L40S 48GB GPU,"about $0.86/hour","生产主力 worker","订单稳定后考虑常驻","https://www.runpod.io/pricing"
+Modal,L4 GPU,"about $0.000222/second","serverless GPU","不用不花钱，适合早期","https://modal.com/pricing"
+Modal,L40S GPU,"about $0.000542/second","serverless GPU","适合自建 worker","https://modal.com/pricing"
+Cloudflare,R2 storage,"$0.015/GB/month","对象存储","早期性价比好，注意国内访问体验","https://developers.cloudflare.com/r2/pricing/"
+

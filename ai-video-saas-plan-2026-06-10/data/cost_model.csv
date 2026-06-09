@@ -1,0 +1,5 @@
+scenario,paid_users,arpu_cny,monthly_revenue_cny,model_api_cloud_cny,payment_refund_cny,compliance_legal_accounting_cny,marketing_cny,support_ops_cny,vat_surcharge_cny,enterprise_income_tax_cny,company_after_tax_profit_cny,notes
+early_validation,100,129,12900,6000,335,3300,2000,0,0,63,1200,"验证阶段；不建议常驻 GPU；重点看付费意愿和模板"
+small_scale,500,159,79500,33000,2067,10000,8000,8000,0,1320,25000,"开始有正现金流；需要点数系统控制高级模型成本"
+business_stage,2000,179,358000,145000,9300,45000,40000,45000,3800,3500,66000,"初步成生意；需要客服、合规、审核、财税体系"
+
