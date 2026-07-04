@@ -1,0 +1,111 @@
+# US and China Tax Compliance Checklist
+
+This document is a practical checklist, not legal or tax advice. Consult a CPA, tax adviser, or lawyer when revenue, structure, or cross-border issues become material.
+
+## US Starting Path
+
+For a US tax resident selling digital products, templates, small tools, or services:
+
+```text
+Merchant of Record platform
+  -> separate bank account
+  -> monthly bookkeeping
+  -> Schedule C
+  -> Schedule SE self-employment tax
+  -> quarterly estimated tax if needed
+  -> LLC later if liability, contracts, partners, or B2B needs grow
+```
+
+### Practical Steps
+
+1. Use Gumroad, Lemon Squeezy, or Paddle when you want a Merchant of Record to handle many sales tax/VAT/GST obligations.
+2. Use Stripe only when you are ready to evaluate sales-tax nexus and registration responsibilities.
+3. Keep a separate bank account or at least separate records.
+4. Export monthly statements from platforms.
+5. Record gross sales, platform fees, refunds, chargebacks, tax collected/remitted, and payouts.
+6. Report business income and expenses on Schedule C.
+7. Use Schedule SE for self-employment tax where applicable.
+8. Consider quarterly estimated taxes when tax owed is likely material.
+9. Form an LLC when liability separation, contracts, business banking, partners, or B2B customers justify it.
+
+### US Pitfalls
+
+- Form 1099-K is not profit; it usually reflects gross payment information.
+- Not receiving a 1099-K does not mean the income is tax-free.
+- A single-member LLC does not automatically reduce federal income tax.
+- Stripe is normally a payment processor, not a Merchant of Record.
+- A Merchant of Record can help with sales tax/VAT/GST but does not pay your income tax.
+- Do not collect sales tax before proper registration when registration is required.
+- Keep records for fees, refunds, chargebacks, tools, hosting, ads, and contractors.
+
+## Mainland China Starting Path
+
+For sustained sales to mainland China users:
+
+```text
+Individual business registration
+  -> small-scale taxpayer
+  -> compliant merchant collection
+  -> electronic invoices
+  -> quarterly filing
+  -> operating income individual income tax
+  -> company structure later if team, financing, or enterprise customers require it
+```
+
+### Practical Steps
+
+1. Small-scale testing can begin on compliant platforms, but keep reports.
+2. If sales are sustained, register an individual business.
+3. Choose business scope that matches the actual product: software development, information technology consulting, internet sales, digital content production, design services, etc.
+4. Confirm small-scale taxpayer status.
+5. Use WeChat Pay/Alipay merchant accounts tied to the business.
+6. Open and use e-tax and e-invoice systems.
+7. Reconcile platform income, merchant payouts, invoices, and un-invoiced income every quarter.
+8. File VAT and related surcharges as required.
+9. File operating income individual income tax as required.
+10. Talk to an accountant before revenue approaches monthly, quarterly, or annual thresholds.
+
+### China Pitfalls
+
+- Do not use personal collection codes long-term for operating revenue.
+- Un-invoiced revenue is still revenue.
+- Do not mismatch invoice item names and real products.
+- Do not rely on platform withholding as the complete tax answer.
+- Platform tax-information reporting is increasingly transparent.
+- Avoid pirated materials, leaked question banks, copied courses, unauthorized fonts/images/code, and scraped databases.
+- Mainland-hosted websites, mini programs, and apps can require ICP filing and platform qualification reviews.
+- Products involving education, finance, healthcare, publishing, games, audiovisual content, or AI services may require extra checks.
+
+## Content and Data Compliance
+
+Minimum rules:
+
+- Sell only original or properly licensed content.
+- Avoid guaranteed outcome claims.
+- Use privacy policies when collecting personal information.
+- Collect only necessary data.
+- Do not collect IDs, location, contacts, or sensitive information unless truly necessary and properly handled.
+- Explain third-party tools such as payment providers, email platforms, analytics, and AI APIs.
+- Keep user data access limited.
+- Provide a way to request deletion or correction where applicable.
+
+## When to Get Professional Help
+
+US:
+
+- Multi-member LLC, S corp election, non-US owner, or partner split
+- Direct Stripe sales across multiple states
+- EU/UK/Canada/Australia VAT/GST exposure
+- Large refund or chargeback mismatch
+- Employees, contractors, affiliates, royalties, or profit sharing
+- Healthcare, finance, legal, children, education, AI, or data-scraping products
+
+China:
+
+- Monthly sales near 100,000 CNY, quarterly sales near 300,000 CNY, or annual sales near 5 million CNY
+- Mixed tax categories: software, SaaS, content, courses, consulting, membership
+- Need to issue many special VAT invoices
+- Multi-platform income with inconsistent reporting
+- Sensitive personal information or cross-border data transfer
+- ICP license, EDI, publishing, audiovisual, game, education, medical, or finance qualification questions
+
